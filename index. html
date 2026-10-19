@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="fa" dir="rtl">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>AMIR SG | سیاره زهره</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Tahoma, sans-serif;
+      background: #101827;
+      color: white;
+      text-align: center;
+      line-height: 1.9;
+    }
+    header {
+      background: linear-gradient(135deg, #e63946, #164e9b);
+      padding: 30px 15px;
+    }
+    h1 { margin: 0; font-size: 32px; }
+    main { padding: 20px; max-width: 750px; margin: auto; }
+    .planet {
+      font-size: 100px;
+      margin: 10px;
+    }
+    .card {
+      background: #1d293d;
+      padding: 20px;
+      border-radius: 16px;
+      margin: 18px 0;
+      text-align: right;
+    }
+    h2 { color: #ffca75; }
+    footer {
+      background: #080e18;
+      padding: 20px;
+      color: #b8c6dc;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AMIR SG</h1>
+    <p>سفر به سیاره شگفت‌انگیز زهره</p>
+  </header>
+
+  <main>
+    <div class="planet">🪐</div>
+    <h2>به دنیای زهره خوش آمدید!</h2>
+    <p>زهره دومین سیاره از خورشید و یکی از شگفت‌انگیزترین سیارات منظومه شمسی است.</p>
+
+    <section class="card">
+      <h2>🌡️ دمای بسیار بالا</h2>
+      <p>دمای سطح زهره به‌طور میانگین حدود ۴۶۵ درجه سانتی‌گراد است. جو غلیظ آن گرما را به دام می‌اندازد.</p>
+    </section>
+
+    <section class="card">
+      <h2>☁️ جو زهره</h2>
+      <p>جو زهره بیشتر از دی‌اکسید کربن تشکیل شده و ابرهای آن حاوی اسید سولفوریک هستند.</p>
+    </section>
+
+    <section class="card">
+      <h2>⏳ یک روز طولانی</h2>
+      <p>زهره حدود ۲۴۳ روز زمینی طول می‌کشد تا یک دور به دور محور خودش بچرخد.</p>
+    </section>
+
+    <section class="card">
+      <h2>🚀 آیا می‌دانستید؟</h2>
+      <p>زهره از نظر اندازه به زمین شباهت دارد، اما شرایط سطح آن برای زندگی انسان بسیار نامناسب است.</p>
+    </section>
+  </main>
+
+  <footer>
+    <p>ساخته‌شده با ❤️ توسط AMIR SG</p>
+    <p>پروژه آموزشی نجوم | ۲۰۲۶</p>
+  </footer>
+</body>
+</html>
